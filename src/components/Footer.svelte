@@ -1,10 +1,10 @@
 <footer>
   <p>
-    SvelteKit clone by <span>pngwn!</span> Original by
+    SvelteKit clone by <span>danielrorspace!</span> Original by
     <a href="https://twitter.com/sarah_edo" target="_blank" rel="noopener"
       >sarah_edo</a
     >. This project is open source, visit<a
-      href="https://github.com/pngwn/svelte-travel-transitions"
+      href="https://github.com/danielrorspace/svelte-travel-transitions"
       target="_blank"
       rel="noopener"
     >
