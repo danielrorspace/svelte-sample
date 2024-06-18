@@ -1,8 +1,6 @@
 # svelte-travel-transitions
 
-[The actual app on the actual internet.](https://svelte-travel.pages.dev/)
-
-A clone of Sarah Drasner's Vue/Nuxt [page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) built with [SvelteKit](https://kit.svelte.dev/docs). All credit goes to Sarah!
+[The actual app on the actual internet.](https://svelte-travel-app-sigma.vercel.app/)
 
 This was built with the `next` version of SvelteKit, so who knows what might explode. I didn't do the map thing because I have no idea what it's supposed to be!
 

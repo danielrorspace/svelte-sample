@@ -4,7 +4,7 @@
     <a href="https://twitter.com/sarah_edo" target="_blank" rel="noopener"
       >sarah_edo</a
     >. This project is open source, visit<a
-      href="https://github.com/danielrorspace/svelte-travel-transitions"
+      href="https://github.com/danielrorspace/svelte-sample"
       target="_blank"
       rel="noopener"
     >
